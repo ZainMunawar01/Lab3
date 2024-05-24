@@ -1,2 +1,17 @@
 cout<<"Muhammad Zain"<<endl;
 cout<<2023-BT-SE-05"<<endl;
+
+int a=3,b=2;
+cout<<"a+b: "<<a+b<<endl;
+
+int a=7,a=2;
+cout<<"a-b: "<<a-b;
+
+int a=5,b=1;
+cout<<"a*b: "<<a*b;
+
+int a=10,b=2;
+cout<<"a/b: "<<a/b;
+
+
+
